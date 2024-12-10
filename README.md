@@ -3,11 +3,11 @@
 This project involves analyzing customer transaction data to gain valuable insights into various factors such as transaction amounts, payment methods, seasonal sales trends, and promotions. Through this data analysis, we seek to answer several key questions related to store types, payment methods, seasonal sales patterns, and promotional effectiveness.
 
 ## Table of Contents
-  - [Project Overview](Project-Overview)
-  - [Key Questions Analyzed](Key-Questions-Analyzed)
-  - [Key Insights](Key-Insights)
-  - [Tools and Libraries Used](Tools-and-Libraries-Used)
-  - [Future Work](Future-Work)
+  - [Project Overview](#project-overview)
+  - [Key Questions Analyzed](#key-questions-analyzed)
+  - [Key Insights](#key-insights)
+  - [Tools and Libraries Used](#tools-and-libraries-used)
+  - [Future Work](#future-work)
 
 ## Project Overview
 The primary goal of this project is to analyze and visualize customer transaction data across various store types and cities. By exploring different aspects of the data, the project provides actionable insights that can help improve sales strategies, customer experience, and marketing efforts.
@@ -49,4 +49,3 @@ We evaluated how effective various promotions are in driving higher transaction 
 - **Further Exploration:** Additional analyses can be performed to dig deeper into customer behaviors, such as clustering customers based on transaction history.
 - **Machine Learning:** Predictive models could be built to forecast sales or predict customer behavior in future transactions.
 - **Visualizations:** Interactive dashboards can be created to present insights dynamically for better decision-making.
-- 
